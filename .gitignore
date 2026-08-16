@@ -1,0 +1,9 @@
+
+
+# Ignore virtual environment directories
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+.mypy_cache/
+movielibray.code-workspace
